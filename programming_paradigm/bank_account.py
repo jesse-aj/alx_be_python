@@ -14,4 +14,4 @@ class BankAccount:
 
     def display_balance(self):
         print(
-            f"Dear Customer your remaining balance is {self.account_balance}")
+            f"Current Balance:{self.account_balance}")
